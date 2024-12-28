@@ -14,8 +14,8 @@ did data cleaning, feature selection with ExtraTree Classifier
 build models like Logistic Regression , Decision Tree and Random Forest 
 
 #**Key Results->**
-Got highest Accuracy of ***83.88%** with Random Forest , **78.88%** with Decision Tree and **71.72** with Logistic Regression 
-In this Data , Generally Male are Smokers, number is above **50%** 
+Got highest Accuracy of ***83.88%** with Random Forest , **78.88%** with Decision Tree and **71.72%** with Logistic Regression 
+In this Data , Generally Male are Smokers, number is above **50%**.
 Large number of data from 40 age group 
 
 #**Tools and Libraries Used->**
